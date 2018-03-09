@@ -1,0 +1,50 @@
+.authInput {
+  position: relative;
+  top: 50vh;
+  left: 50vw;
+
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  height: 80vh;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: black;
+}
+
+.AppNotes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ui.vertical.menu.notesMenu {
+  width: 15vw;
+  max-height: 60vh;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.ui.segment.notesContent {
+  width: 80vw;
+  max-height: 60vh;
+  overflow: hidden;
+  overflow-y: scroll;
+  margin-top: 0;
+}
+.ui.segment.addNotesSegment {
+  margin: -10px 20px 10px 20px;
+}
+
+.ui.button.sendButton {
+  margin: 10px 0;
+}
+

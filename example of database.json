@@ -1,0 +1,6 @@
+{
+  "auth" : "this is the place for your authentication code",
+  "diary" : {
+    	"Mon Mar 05 2018 16:56:00" : "This is how data should look like"
+  }
+}
